@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            @alspur
+description:      Thoughts on education policy and more.
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
@@ -9,21 +9,21 @@ url:              http://alspur.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           Alex Spurrier
+  avatar:         me.jpeg
+  bio:            "Education data nerd."
+  email:          alex.spurrier@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
+  twitter:        alspur
   facebook:
-  github:
+  github:         alspur
   stackexchange:
   linkedin:
   instagram:
   flickr:
   tumblr:
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:
 
 # Background image to be tiled on all pages
 background:
