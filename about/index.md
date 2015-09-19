@@ -15,6 +15,6 @@ I'm also a fan of the [New England Patriots](http://patriots.com).
 My favorite charity is [Pets for Patriots](http://petsforpatriots.org). Please consider making a donation.
 
 
-![goruck]({filename}/images/goruck.jpg)
+![goruck]({{ site.url }}/images/goruck.jpg)
 
-![alexbailey]({filename}/images/alexbailey.jpeg)
+![alexbailey]({{ site.url }}/images/alexbailey.jpeg)
