@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: post
 title: The Real Obama Education Legacy
 date: 2015-09-23 08:12
 link: http://www.aei.org/publication/the-real-obama-education-legacy/
