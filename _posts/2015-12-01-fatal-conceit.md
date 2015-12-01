@@ -7,13 +7,13 @@ tags: [essa, ed reform, ed policy]
 
 >"The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design" - F.A. Hayek, *[The Fatal Conceit][hayek]*
 
-The ink on the released language of the Every Student Succeeds Act (ESSA) is barely dry, but progressive ed reformers are already panning the proposed successor to the defunct No Child Left Behind Act (NCLB). [Conor Williams](http://twitter.com/conorpwilliams) argues that not only should Obama veto the NCLB rewrite, [progressives should fear it][williams].[^cons] His case for progressive opposition to ESSA boils down to this:
+The ink on the recently released Every Student Succeeds Act (ESSA) is barely dry, but progressive ed reformers are already panning the proposed successor to the defunct No Child Left Behind Act (NCLB). [Conor Williams](http://twitter.com/conorpwilliams) argues that not only should Obama veto the NCLB rewrite, [progressives should fear it][williams].[^cons] His case for progressive opposition to ESSA boils down to this:
 
 >“If this were a debate over clean water protections, voting rights protections, or most other policy issues, progressives would line up to yell about how states can’t be trusted to do the right thing without strong federal oversight.”
 
 This begs the question: what is "the right thing" for states to do? Is there even one "right thing" that can apply to all states? Reading Williams' argument, I kept hearing the Hayek quote above in my head.[^econ] I'm not as confident that we know enough to design the accountability system he imagines.
 
-[Mike Petrilli](http://twitter.com/michaelpetrilli) wrote [two weeks ago][halo] about the ed reform movement's need for more humility:
+Two weeks ago, [Mike Petrilli](http://twitter.com/michaelpetrilli) wrote about [the ed reform movement's need for more humility][halo]:
 
 >“We know what works, we just need the political will to do it”: That’s the foundational creed of today’s reform movement. But what if the truth is closer to “We are just beginning to learn what works to help poor kids escape poverty, but we still don’t know how to do it at scale”? 
 
