@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Beyond Taylorism, Part III
-date: 2015-09-22 09:00
+date: 2015-09-22 9:00
 tags: [taylorism, team of teams]
 ---
 
 If you're like me, you've read articles, essays, and books that attempt to explain the root cause of the problems facing  the teaching profession.  In [*The Allure of Order*](allureoforder), Jal Mehta only needs one paragraph to break it down:
 
->"In the longer term, the success of the reformers in the Progressive Era resulted in a shift from one-room schoolhouses to urban school systems, in which schools were expected to follow the directives of a central manager in a district office. **This effectively institutionalized teaching, note as a profession under the control of its frontline practitioners, but as an activity performed within a bureaucratically controlled hierarchy.** (emphasis added) Teachers and schools, at the bottom of an implementation chain, were responsible primarily for implementing the ideas of central office managers.
+>"In the longer term, the success of the reformers in the Progressive Era resulted in a shift from one-room schoolhouses to urban school systems, in which schools were expected to follow the directives of a central manager in a district office. **This effectively institutionalized teaching, not as a profession under the control of its frontline practitioners, but as an activity performed within a bureaucratically controlled hierarchy.** (emphasis added) Teachers and schools, at the bottom of an implementation chain, were responsible primarily for implementing the ideas of central office managers.
 
 This resonates with me. To be sure, there are examples of leaders and teachers that find a way to thrive in the system as it exists today, but they are by far the exception and not the rule. Teachers – particularly in urban school systems – feel constrained by the system within which they operate.  
 
