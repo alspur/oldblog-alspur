@@ -4,12 +4,12 @@ title: Who is @alspur?
 image:
   feature: beach.jpg
 comments: false
-modified: 2015-09-18
+modified: 2016-07-19
 ---
 
-My name is **Alex Spurrier**. I'm a education policy expert and data strategist living in Lexington, Kentucky.
+My name is **Alex Spurrier**. I'm a education policy expert and data strategist living in Lexington, Kentucky with my wonderful wife and our precocious dog.
 
-In my spare time, I coach youth lacrosse and train for/participate in [GORUCK Events](http://goruck.com/events).
+In my spare time, I train for/participate in [GORUCK Events](http://goruck.com/events).
 I'm also a fan of the [New England Patriots](http://patriots.com).
 
 My favorite charity is [Pets for Patriots](http://petsforpatriots.org). Please consider making a donation.
